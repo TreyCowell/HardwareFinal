@@ -1,5 +1,9 @@
 # HardwareFinal
 
+Treyton Cowell - 100745472 - EVEN
+
+-----
+
 Creating a Duck Hunt Controller to Allow Players to utilize immersion and play as the duck.
 
 The controller is in a rough duck-like shape, players hold the body of the duck with the head facing forward and the wings out to either side.
