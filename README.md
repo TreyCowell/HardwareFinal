@@ -20,6 +20,8 @@ The duck will feature a breadboard, an ardiuno, a vibration motor at the base of
 
 The components that I will be making will all be created in PLA and made through the process of 3D printing. All electronics will be glued into place or sauldered in the case of the buttons.
 
+The wings will be bound together by an tight elastic, allowing for both wings to move but return to intial form after the button press.
+
 -----
 
 The first thing I would do if I had more time would be to change the body to more of a cylindrical shape, I believe that would be more comfortable to hold but even rounding the edges more would go a long way in making the player believe they are holding a duck.
@@ -27,3 +29,5 @@ The first thing I would do if I had more time would be to change the body to mor
 I could also decrease the size of the duck (length) to decrease the overall weight, but for the current iteration I believe it will be solid.
 
 The lid is also something that would need to be added, but seeing as the duck doesn't have to tilt, the components will not fall out after being glued to body.
+
+Wings could benefit from a hinge mechanism.
