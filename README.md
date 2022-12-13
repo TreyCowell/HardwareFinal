@@ -14,7 +14,7 @@ The wiring will come out the back of the duck body and plug into a laptop or PC 
 
 On the underside of the duck there are two holes for index finger buttons that will allow for new duck abilities which are to go invisable briefly and to send a fake duck to distract the hunter.
 
-The duck will feature a breadboard, an ardiuno, a vibration motor at the base of the neck, and four buttons total (2 wings, 2 abilities).
+The duck will feature a breadboard, an ardiuno, a vibration motor at the base of the neck that vibrates whent he duck is shot at in game, and four buttons (2 wings, 2 abilities).
 
 -----
 
