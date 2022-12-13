@@ -10,6 +10,8 @@ The controller is in a rough duck-like shape, players hold the body of the duck 
 
 The wings can be pressed with your thumbs and act as left and right movement buttons for the duck within the game.
 
+The underside of each wing has plenty od space for the button and the wiring to connect each button. Ideally with springs to maintain the wings rigid structure.
+
 The wiring will come out the back of the duck body and plug into a laptop or PC as to not get in the way of the authentic duck experience.
 
 On the underside of the duck there are two holes for index finger buttons that will allow for new duck abilities which are to go invisable briefly and to send a fake duck to distract the hunter.
