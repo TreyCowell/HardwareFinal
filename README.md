@@ -16,8 +16,12 @@ On the underside of the duck there are two holes for index finger buttons that w
 
 The duck will feature a breadboard, an ardiuno, a vibration motor at the base of the neck that vibrates whent he duck is shot at in game, and four buttons (2 wings, 2 abilities).
 
+The components that I will be making will all be created in PLA and made through the process of 3D printing. All electronics will be glued into place or sauldered in the case of the buttons.
+
 -----
 
 The first thing I would do if I had more time would be to change the body to more of a cylindrical shape, I believe that would be more comfortable to hold but even rounding the edges more would go a long way in making the player believe they are holding a duck.
 
+I could also decrease the size of the duck (length) to decrease the overall weight, but for the current iteration I believe it will be solid.
 
+The lid is also something that would need to be added, but seeing as the duck doesn't have to tilt, the components will not fall out after being glued to body.
