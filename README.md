@@ -31,3 +31,7 @@ I could also decrease the size of the duck (length) to decrease the overall weig
 The lid is also something that would need to be added, but seeing as the duck doesn't have to tilt, the components will not fall out after being glued to body.
 
 Wings could benefit from a hinge mechanism.
+
+-----
+
+Focused on the modelling and design aspect, missing wiring.
